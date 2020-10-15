@@ -26,12 +26,4 @@ writeln(ss);
 WriteLn('Нажмите enter что бы продолжить:');
 readln;
  until KeyPressed;
- echo "# Gefestion" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/Alexgefestion/Gefestion.git
- git push - u origin main
-                
 end . 
